@@ -9,11 +9,6 @@ I like developing games and developing apps. I am a fan of Frutiger Aero and I u
 ---
 
 ## 📊 GitHub Stats  
-![SonikPixelz901's Stats](https://github-readme-stats.vercel.app/api?username=Immabadliar&show_icons=true&theme=radical)  
+![SonikPixelz901's Stats](https://github-readme-stats.vercel.app/api?username=SonikPixelz901&show_icons=true&theme=radical)  
 
----
-
-## 🔧 Languages I Use  
-![C++](https://img.shields.io/badge/C++-grey)
-   
 ---
