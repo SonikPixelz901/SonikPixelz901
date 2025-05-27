@@ -5,6 +5,7 @@ I like developing games and developing apps. I am a fan of Frutiger Aero and I u
 - 🔭 I’m currently working on a calculator.
 - 🌱 I’m currently learning Rust.
 - ⚡ Fun fact: I am very clever but also dumb.
+- 🪐 I love space, science, learning and nature.
 
 ---
 
