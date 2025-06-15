@@ -3,7 +3,7 @@
 I like developing games and developing apps. I am a fan of Frutiger Aero and I usually daydream of Science and Astronomy.
 
 - 🔭 I’m currently working on a calculator.
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning C++.
 - ⚡ Fun fact: I am very clever but also dumb.
 - 🪐 I love space, science, learning and nature.
 
